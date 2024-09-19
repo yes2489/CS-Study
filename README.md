@@ -27,7 +27,7 @@
 ---
 
 ## Web
-### 📁 [Web](./Web)
-- [WEB 기초](./Web/WEB.md)
+### 📁 [Web](./WEB)
+- [WEB 기초](./WEB/WEB.md)
 - WEB과 WAS
 ---
