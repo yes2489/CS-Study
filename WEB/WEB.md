@@ -1,24 +1,24 @@
 # WEB
 1. [WEB의 동작 방식](#WEB의-동작-방식)
 2. [WEB의 통신 과정](#WEB의-통신-과정)
-3. [HTML & CSS & JavaScript](#HTML-&-CSS-&-JavaScript)
-   - [HTML](#HTML)
-   - [CSS](#CSS)
-   - [JavaScript](#JavaScript)
+3. [HTML & CSS & JavaScript](#HTML-CSS-JavaScript)
+   - HTML
+   - CSS
+   - JavaScript
 4. [도메인](#도메인)
-    - [도메인 네임 시스템(Domain Name System, DNS)](#도메인-네임-시스템-Domain-Name-System-DNS)
-    - [DNS 쿼리 과정](#DNS-쿼리-과정)
-    - [URI, URL, URN](#URI,-URL,-URN)
+    - 도메인 네임 시스템(Domain Name System, DNS)
+    - DNS 쿼리 과정
+    - URI, URL, URN
 5. [HTTP 프로토콜](#HTTP-프로토콜)
-    - [HTTP (HyperText Transfer Protocol)](#HTTP-HyperText-Transfer-Protocol)
-    - [HTTP 특징](#HTTP-특징)
-    - [HTTP Request & Response](#HTTP-Request-&-Response)
-    - [HTTPS(Hyper Text Transfer Protocol Secure)](#HTTPS-Hyper-Text-Transfer-Protocol-Secure)
+    - HTTP (HyperText Transfer Protocol)
+    - HTTP 특징
+    - HTTP Request & Response
+    - HTTPS(Hyper Text Transfer Protocol Secure)
 6. [쿠키와 세션](#쿠키와-세션)
-    - [쿠키 (Cookie)](#쿠키-Cookie)
-    - [쿠키 동작 방식](#쿠키-동작-방식)
-    - [세션 (Session)](#세션-Session)
-    - [세션 동작 방식](#세션-동작-방식)
+    - 쿠키 (Cookie)
+    - 쿠키 동작 방식
+    - 세션 (Session)
+    - 세션 동작 방식
 
 ## WEB의 동작 방식
 
