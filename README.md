@@ -19,7 +19,8 @@
 ---
 
 ## Network
-### 📁 네트워크
+### 📁 [네트워크](./Network)
+ - [OSI 7 Layer](./Network/OSI7LAYER.md)
 ---
 
 ## Server
